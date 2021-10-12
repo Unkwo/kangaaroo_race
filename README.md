@@ -1,1 +1,1 @@
-# kangaaroo_race
+# project-template-kangaroo-2
